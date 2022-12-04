@@ -1,7 +1,7 @@
 ### Hi! 👋
 I'm Widowan, a software engineering student, currently working with Java + Spring stack!
 
-Contact me: Widowan\<at\>proton<.>me
+You can contact me by an email in my profile or any other way on my site!
 
 Additional interests: Rust, Linux
 
