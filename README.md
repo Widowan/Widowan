@@ -1,7 +1,8 @@
 ### Hi! 👋
-I'm Widowan, a software engineering student, currently working with Java + Spring stack!
+I'm Widowan, a software engineering student, currently working as DevOps, but I also love programming
+with Java and Spring!
 
-You can contact me by an email in my profile or any other way on my site!
+You can contact me by an email in my profile or any other way on my site.
 
 Additional interests: Rust, Linux
 
